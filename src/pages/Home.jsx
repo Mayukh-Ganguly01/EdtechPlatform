@@ -103,7 +103,11 @@ const Home = () => {
                 />
             </div>
 
+             <div>
 
+
+             </div>  
+                      
             <ExploreMore/>
 
         </div>
